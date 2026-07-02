@@ -1,0 +1,5 @@
+print("NetSquare\nwelcome")
+print("Employee Name\t Rupinder Kaur")
+print("Job \t Intern")
+print("Manager said,\"Great!\"")
+print("Thank\'s")
