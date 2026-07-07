@@ -99,7 +99,7 @@
 #Excercise no-09
 #Student Course Check
 courses=("python","AI","Data Science","Machine Learning")
-CourseName=input("Enter the Name of your Course: ").lower()
+CourseName=input("Enter the Name of your Course: ")
 if CourseName in courses:
     print("Course Available")
 else:
