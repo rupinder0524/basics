@@ -1,0 +1,7 @@
+Order ID,Food Item,Quantity,Price,Payment Mode
+101,Noodles,4,100,cash
+102,Pizza,6,500,UPI
+103,Burger,10,360,UPI
+104,Sandwich,20,220,cash
+105,Pasta,8,800,UPI
+106,Biryani,5,700,cash
