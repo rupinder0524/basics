@@ -1,0 +1,76 @@
+﻿Patient ID,Department,Doctor,Age,City,Bill Amount
+,,,,,
+P001,Cardiology,Dr. Sharma,45,Ludhiana,12000
+P002,Neurology,Dr. Mehta,38,Amritsar,18000
+P003,Orthopedics,Dr. Singh,52,Jalandhar,9500
+P004,Pediatrics,Dr. Kaur,12,Patiala,3000
+P005,Dermatology,Dr. Verma,29,Ludhiana,2500
+P006,ENT,Dr. Gill,41,Mohali,4200
+P007,Cardiology,Dr. Sharma,60,Chandigarh,15000
+P008,Neurology,Dr. Mehta,34,Bathinda,17500
+P009,Orthopedics,Dr. Singh,48,Hoshiarpur,8700
+P010,Pediatrics,Dr. Kaur,8,Patiala,2800
+P011,Dermatology,Dr. Verma,31,Amritsar,2600
+P012,ENT,Dr. Gill,55,Ludhiana,5000
+P013,Cardiology,Dr. Sharma,46,Jalandhar,13000
+P014,Neurology,,39,Chandigarh,19000
+P015,Orthopedics,Dr. Singh,50,Mohali,9200
+P016,Pediatrics,Dr. Kaur,10,Bathinda,
+P017,Dermatology,Dr. Verma,27,Patiala,2200
+P018,ENT,Dr. Gill,43,,4700
+P019,Cardiology,Dr. Sharma,58,Ludhiana,14200
+P020,Neurology,Dr. Mehta,36,Amritsar,16800
+P021,Orthopedics,Dr. Singh,49,Jalandhar,9100
+P022,Pediatrics,Dr. Kaur,9,Patiala,2900
+P023,Dermatology,Dr. Verma,35,Mohali,3100
+P024,ENT,Dr. Gill,44,Bathinda,4600
+P025,Cardiology,Dr. Sharma,63,Hoshiarpur,17000
+P026,Neurology,Dr. Mehta,42,Ludhiana,18500
+P027,Orthopedics,Dr. Singh,,Amritsar,9800
+P028,Pediatrics,Dr. Kaur,13,Jalandhar,3200
+P029,Dermatology,Dr. Verma,30,Patiala,2700
+P030,ENT,Dr. Gill,47,Mohali,4900
+P031,Cardiology,Dr. Sharma,54,Chandigarh,13800
+P032,Neurology,Dr. Mehta,37,Bathinda,17600
+P033,Orthopedics,Dr. Singh,51,Ludhiana,9400
+P034,Pediatrics,Dr. Kaur,11,Amritsar,3100
+P035,Dermatology,,33,Jalandhar,2800
+P036,ENT,Dr. Gill,46,Patiala,5100
+P037,Cardiology,Dr. Sharma,59,Mohali,15500
+P038,Neurology,Dr. Mehta,40,,18100
+P039,Orthopedics,Dr. Singh,53,Hoshiarpur,9600
+P040,Pediatrics,Dr. Kaur,7,Ludhiana,2500
+P041,Dermatology,Dr. Verma,28,Amritsar,2400
+P042,ENT,Dr. Gill,45,Jalandhar,4800
+P043,Cardiology,Dr. Sharma,57,Patiala,14900
+P044,Neurology,Dr. Mehta,35,Mohali,17200
+P045,Orthopedics,Dr. Singh,50,Bathinda,9300
+P046,Pediatrics,Dr. Kaur,14,Chandigarh,3400
+P047,Dermatology,Dr. Verma,32,Hoshiarpur,2900
+P048,ENT,Dr. Gill,48,Ludhiana,
+P049,Cardiology,Dr. Sharma,61,Amritsar,16200
+P050,Neurology,Dr. Mehta,39,Jalandhar,17800
+P020,Neurology,Dr. Mehta,36,Amritsar (Duplicate),16800
+P033,Orthopedics,Dr. Singh,51,Ludhiana (Duplicate),9400
+P015,Orthopedics,Dr. Singh,50,Mohali (Duplicate),9200
+P041,Dermatology,Dr. Verma,28,Amritsar (Duplicate),2400
+P052,ENT,Dr. Gill,42,Bathinda,4500
+P053,Cardiology,Dr. Sharma,56,Patiala,14600
+P054,Neurology,Dr. Mehta,43,Ludhiana,18200
+P055,Orthopedics,Dr. Singh,47,,8900
+P056,Pediatrics,Dr. Kaur,6,Amritsar,2300
+P057,Dermatology,Dr. Verma,34,Jalandhar,3000
+P058,ENT,Dr. Gill,49,Mohali,5200
+P059,Cardiology,Dr. Sharma,62,Bathinda,16500
+P060,Neurology,Dr. Mehta,41,Patiala,17900
+P061,Orthopedics,Dr. Singh,54,Ludhiana,9700
+P062,Pediatrics,,9,Chandigarh,3100
+P063,Dermatology,Dr. Verma,31,Hoshiarpur,2800
+P064,ENT,Dr. Gill,44,Amritsar,4900
+P065,Cardiology,Dr. Sharma,58,Jalandhar,15100
+P066,Neurology,Dr. Mehta,38,Mohali,
+P067,Orthopedics,Dr. Singh,52,Bathinda,9500
+P068,Pediatrics,Dr. Kaur,10,Patiala,2950
+P069,Dermatology,Dr. Verma,29,Ludhiana,2600
+P070,ENT,Dr. Gill,43,Amritsar,4700
+P071,Cardiology,Dr. Sharma,55,Jalandhar,14400

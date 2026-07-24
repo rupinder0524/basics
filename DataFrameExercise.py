@@ -1,50 +1,50 @@
 # # Exercise-1
 
 
-# import pandas as pd
-# df_csv=pd.read_csv("students.csv")
-# print(df_csv)
-# print("Top 5 players by run:")
-# top=df_csv.sort_values(by="Runs",ascending=False)
-# print(top)
-# print()
-# print("Players with strike rate >140")
-# max_strike_Rate=df_csv[df_csv["Strike Rate"]>140]
-# print(max_strike_Rate)
-# print()
-# print("Average Run scored by players: ")
-# average_run=df_csv["Runs"].mean()
-# print(average_run)
-# print()
-# print("Player With Maximum Runs: ")
-# max_runs = df_csv["Runs"].max()
-# player=df_csv[df_csv["Runs"]==max_runs]
-# print(max_runs)
-# print()
-# print(player)
-# print()
+import pandas as pd
+df_csv=pd.read_csv("students.csv")
+print(df_csv)
+print("Top 5 players by run:")
+top=df_csv.sort_values(by="Runs",ascending=False)
+print(top)
+print()
+print("Players with strike rate >140")
+max_strike_Rate=df_csv[df_csv["Strike Rate"]>140]
+print(max_strike_Rate)
+print()
+print("Average Run scored by players: ")
+average_run=df_csv["Runs"].mean()
+print(average_run)
+print()
+print("Player With Maximum Runs: ")
+max_runs = df_csv["Runs"].max()
+player=df_csv[df_csv["Runs"]==max_runs]
+print(max_runs)
+print()
+print(player)
+print()
 
-# import matplotlib.pyplot as plt
-# # plt.bar(df_csv["Player Name"],df_csv["Runs"],color="Red")
-# # plt.xlabel("Runs")
-# # plt.ylabel("Players Name")
-# # plt.title("Runs Scored By Players")
-# # plt.show()
+import matplotlib.pyplot as plt
+plt.bar(df_csv["Player Name"],df_csv["Runs"],color="Red")
+plt.xlabel("Runs")
+plt.ylabel("Players Name")
+plt.title("Runs Scored By Players")
+plt.show()
 
-# # plt.scatter(df_csv["Matches"],df_csv["Runs"],color="skyblue")
-# # plt.xlabel("Matches")
-# # plt.ylabel("Runs")
-# # plt.title("MAtTCHES v/s RUNS")
-# # plt.grid(True)
-# # plt.show()
+plt.scatter(df_csv["Matches"],df_csv["Runs"],color="skyblue")
+plt.xlabel("Matches")
+plt.ylabel("Runs")
+plt.title("MAtTCHES v/s RUNS")
+plt.grid(True)
+plt.show()
 
 
-# plt.hist(df_csv["Strike Rate"],color="green")
-# plt.xlabel("value")
-# plt.ylabel("Frequency")
-# plt.title("Strike rate Distribution")
-# plt.grid(True)
-# plt.show()
+plt.hist(df_csv["Strike Rate"],color="green")
+plt.xlabel("value")
+plt.ylabel("Frequency")
+plt.title("Strike rate Distribution")
+plt.grid(True)
+plt.show()
 
 
  # Exercise-2
@@ -320,6 +320,7 @@
 
 
 # Exercise-8
+
 # import pandas as pd
 # df = pd.read_csv("university.csv")
 # print(df)

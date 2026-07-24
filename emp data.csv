@@ -1,0 +1,52 @@
+﻿Employee Id,Name,Department,City,Experience,Salary,Performace Rating
+101,Nick,HR,Delhi,2,25000,4.5
+102,John,Finance,Mumbai,4,28000,
+103,David,Research,Ludhiana,5,,4.7
+104,Lilly,HR,Khanna,2,32000,3.8
+105,Mariam,HR,Ferozpur,0.5,35000,4.5
+106,Rabia,Research,Sangur,2.5,38000,3.9
+107,Laila,Finance,Rohtak,4,40000,4.7
+108,Adam,HR,Kurushetre,5.5,42000,4
+109,Ella,Research,Ambala,6,45000,3.5
+110,Aziz,Research,Gurugram,8,48000,4.8
+111,Rumi,Finance,Mohali,9,50000,4.1
+112,Samash,Research,Chandigarh,7.5,52000,3.7
+113,Adam,Finance,Ferozpur,3.5,,4.6
+114,Mahnoor,HR,Sangur,4.5,58000,3.9
+115,Ethan,HR,Rohtak,2.5,60000,4.3
+116,Areeba,Finance,Kurushetre,6.5,62000,4.9
+117,Lucas,Research,Ambala,,65000,3.6
+118,Zoya,Research ,Mumbai,3.5,68000,4.4
+119,Hamza,Finance,Ludhiana,5.5,70000,4
+120,Olivia,HR,Khanna,4.5,,3.8
+121,Bilal,Research ,Ferozpur,8.5,75000,4.7
+122,Grace,Finance,Sangur,9.5,78000,4.2
+123,Hania,HR,Rohtak,4.5,80000,3.9
+124,Noah,Research ,Kurushetre,7,82000,
+125,Farhan,Finance,Ambala,8,85000,4.1
+126,Emma,HR,Kurushetre,5,88000,4.8
+127,Huzaifa,Research ,Ambala,4,90000,
+128,Maryam,Finance,Gurugram,,92000,
+129,Benjamin,HR,Mohali,5,95000,4.3
+130,Sana,,Chandigarh,3.5,98000,3.5
+131,Ibrahim,HR,Khanna,5.5,100000,4.9
+132,Charlotte,Finance,Ferozpur,4.5,105000,4
+133,Yusuf,Research,Sangur,,110000,4.4
+134,Alina,Research,Rohtak,9.5,115000,3.8
+135,Liam,Research ,Kurushetre,4.5,120000,4.7
+136,Ayesha,Finance,Ambala,2,125000,4.2
+137,Mustafa,,Kurushetre,4,130000,3.9
+138,Sophia,,Ambala,5,135000,4.5
+139,Saad,HR,Gurugram,2,140000,4.1
+140,Noor,Finance,Mohali,0.5,145000,4.8
+141,Mason,Research,Chandigarh,2.5,150000,3.6
+142,Fatima,,Khanna,4,160000,4.3
+143,Zain,,Ferozpur,5.5,,
+144,Amelia,,Sangur,6,180000,4.7
+145,Omar,Research,Rohtak,8,190000,3.8
+146,Hafsa,Research ,Kurushetre,9,200000,4.6
+147,Rayyan,Finance,Ambala,,,4.2
+148,Iqra,,Gurugram,3.5,250000,4.9
+149,Ahmed,Finance,Ambala,4.5,,3.9
+150,Emaan,Finance,Gurugram,2.5,,4.5
+133,Yusuf,Research,Sangur,,110000,4.4
