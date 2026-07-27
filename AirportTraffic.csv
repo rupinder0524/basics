@@ -1,0 +1,122 @@
+﻿Passenger_ID,Airline,Source_City,Destination_City,Ticket_Price,Flight_Duration,Travel_Class,Delay_Minutes
+P001,IndiGo,Delhi,Mumbai,4500,2,Economy,5
+P002,Air India,Chennai,Delhi,6800,2.5,Business,10
+P003,SpiceJet,Mumbai,Bengaluru,5200,1.8,Economy,15
+P004,Vistara,Hyderabad,Kolkata,8400,2.3,First Class,20
+P005,Akasa Air,Pune,Delhi,6100,2.1,Economy,0
+P006,IndiGo,Jaipur,Chennai,7200,2.7,Business,8
+P007,Air India,Kolkata,Mumbai,5500,2,Economy,12
+P008,SpiceJet,Bengaluru,Hyderabad,3900,1.2,Economy,25
+P009,Vistara,Delhi,Jaipur,,,Business,18
+P010,Akasa Air,Mumbai,Pune,3500,1,Economy,30
+P011,IndiGo,Chennai,Kolkata,6900,2.4,First Class,45
+P012,Air India,Hyderabad,Bengaluru,4300,1.5,Economy,60
+P013,SpiceJet,Delhi,Chennai,,,Business,35
+P014,Vistara,Mumbai,Hyderabad,5800,1.9,Economy,40
+P015,Akasa Air,Kolkata,Delhi,8100,2.6,First Class,22
+P016,IndiGo,Pune,Mumbai,3600,1.1,Economy,17
+P017,Air India,Jaipur,Delhi,4200,1.3,Economy,9
+P018,SpiceJet,Bengaluru,Chennai,4100,1.2,Business,14
+P019,Vistara,Hyderabad,Pune,5300,1.8,Economy,28
+P020,Akasa Air,Delhi,Bengaluru,7900,2.7,First Class,50
+P021,IndiGo,Mumbai,Chennai,6400,2.2,Economy,55
+P022,Air India,Kolkata,Hyderabad,7100,2.5,Business,65
+P023,SpiceJet,Pune,Jaipur,6000,2,Economy,70
+P024,Vistara,Chennai,Mumbai,6700,2.3,Economy,80
+P025,Akasa Air,Delhi,Kolkata,8800,2.9,First Class,90
+P026,IndiGo,Hyderabad,Delhi,7500,2.6,Business,100
+P027,Air India,Bengaluru,Pune,4400,1.5,Economy,110
+P028,SpiceJet,Jaipur,Mumbai,4900,1.7,Economy,120
+P029,Vistara,Kolkata,Chennai,7300,2.6,Business,7
+P030,Akasa Air,Pune,Hyderabad,5100,1.9,Economy,13
+P031,IndiGo,Delhi,Chennai,7700,2.8,Business,19
+P032,Air India,Mumbai,Kolkata,,,Economy,24
+P033,SpiceJet,Bengaluru,Delhi,8100,2.9,First Class,32
+P034,Vistara,Chennai,Hyderabad,5400,1.8,Economy,38
+P035,Akasa Air,Jaipur,Pune,4700,1.6,Economy,42
+P036,IndiGo,Kolkata,Bengaluru,7200,2.5,Business,48
+P037,Air India,Hyderabad,Mumbai,5800,2,Economy,53
+P038,SpiceJet,Delhi,Pune,4900,1.7,Economy,58
+P039,Vistara,Chennai,Jaipur,6500,2.2,Business,63
+P040,Akasa Air,Mumbai,Delhi,4600,2,Economy,68
+P041,IndiGo,Bengaluru,Kolkata,7600,2.7,First Class,75
+P042,Air India,Pune,Chennai,6200,2.1,Economy,85
+P043,SpiceJet,Hyderabad,Delhi,7800,2.8,Business,95
+P044,Vistara,Kolkata,Pune,5600,1.9,Economy,105
+P045,Akasa Air,Jaipur,Bengaluru,6900,2.4,Economy,115
+P046,IndiGo,Delhi,Hyderabad,7100,2.5,Business,125
+P047,Air India,Mumbai,Jaipur,5000,1.8,Economy,
+P048,SpiceJet,Chennai,Pune,4800,1.7,Economy,15
+P049,Vistara,Bengaluru,Mumbai,5700,1.9,Business,20
+P050,Akasa Air,Kolkata,Delhi,8200,2.8,First Class,
+P051,IndiGo,Pune,Kolkata,6300,2.2,Economy,35
+P052,Air India,Hyderabad,Chennai,5500,1.9,Economy,40
+P053,SpiceJet,Jaipur,Hyderabad,6800,2.3,Business,50
+P054,Vistara,Delhi,Pune,4600,1.6,Economy,60
+P055,Akasa Air,Mumbai,Bengaluru,6100,2,Economy,70
+P056,IndiGo,Chennai,Delhi,7900,2.8,First Class,80
+P057,Air India,Kolkata,Jaipur,6400,2.2,Business,90
+P058,SpiceJet,Bengaluru,Chennai,4300,1.4,Economy,100
+P059,Vistara,Hyderabad,Mumbai,5900,2,Economy,110
+P060,Akasa Air,Pune,Delhi,7000,2.5,Business,120
+P061,IndiGo,Delhi,Mumbai,4800,2,Economy,5
+P062,Air India,Chennai,Delhi,7200,2.6,Business,10
+P063,SpiceJet,Bengaluru,Hyderabad,4100,1.4,Economy,15
+P064,Vistara,Kolkata,Pune,5600,2,Economy,20
+P065,Akasa Air,Jaipur,Delhi,4500,1.5,Economy,0
+P066,IndiGo,Hyderabad,Chennai,6100,2.1,Business,8
+P067,Air India,Mumbai,Kolkata,6900,2.4,First Class,12
+P068,SpiceJet,Delhi,Bengaluru,7800,2.8,Business,25
+P069,Vistara,Pune,Mumbai,3900,1.2,Economy,18
+P070,Akasa Air,Chennai,Jaipur,6700,2.3,Economy,30
+P071,IndiGo,Kolkata,Delhi,8200,2.9,First Class,45
+P072,Air India,Hyderabad,Pune,5200,1.8,Economy,60
+P073,SpiceJet,Mumbai,Chennai,6400,2.2,Business,35
+P074,Vistara,Delhi,Hyderabad,7100,2.5,Economy,40
+P075,Akasa Air,Bengaluru,Kolkata,7600,2.7,Business,22
+P076,IndiGo,Pune,Jaipur,4700,1.6,Economy,17
+P077,Air India,Chennai,Mumbai,5900,2,Economy,9
+P078,SpiceJet,Delhi,Pune,5000,1.7,Economy,14
+P079,Vistara,Hyderabad,Delhi,7500,2.6,Business,28
+P080,Akasa Air,Kolkata,Chennai,6800,2.4,First Class,50
+P081,IndiGo,Jaipur,Bengaluru,6200,2.2,Economy,55
+P082,Air India,Mumbai,Delhi,4600,1.8,Economy,65
+P083,SpiceJet,Chennai,Hyderabad,5400,1.9,Business,70
+P084,Vistara,Bengaluru,Pune,4300,1.5,Economy,80
+P085,Akasa Air,Delhi,Kolkata,8100,2.8,First Class,90
+P086,IndiGo,Hyderabad,Mumbai,5700,2,Economy,100
+P087,Air India,Pune,Chennai,6500,2.3,Business,110
+P088,SpiceJet,Jaipur,Kolkata,6900,2.5,Economy,120
+P089,Vistara,Mumbai,Bengaluru,6100,2.1,Economy,7
+P090,Akasa Air,Delhi,Jaipur,4400,1.4,Economy,13
+P091,IndiGo,Chennai,Delhi,,2.7,Business,19
+P092,Air India,Hyderabad,Mumbai,5800,,Economy,24
+P093,IndiGo,Kolkata,Pune,5600,2,Economy,32
+P094,SpiceJet,Delhi,Chennai,7300,2.6,Economy,38
+P095,Vistara,Bengaluru,,6400,2.2,Business,42
+P096,Akasa Air,Mumbai,Hyderabad,5200,1.8,Economy,48
+P097,IndiGo,Mumbai,Kolkata,,,Economy,53
+P098,Air India,Jaipur,Delhi,4700,1.6,Business,58
+P099,SpiceJet,Chennai,Bengaluru,4300,1.5,Economy,63
+P100,Vistara,Hyderabad,Pune,,2,Business,68
+P101,IndiGo,Delhi,Mumbai,4800,2,Economy,75
+P102,Air India,Chennai,Delhi,7200,2.6,Business,85
+P103,SpiceJet,Bengaluru,Hyderabad,4100,1.4,Economy,95
+P104,Vistara,Kolkata,Pune,5600,2,Economy,105
+P105,Akasa Air,Jaipur,Delhi,4500,1.5,Economy,115
+P106,IndiGo,Hyderabad,Chennai,6100,2.1,Business,125
+P107,Air India,Mumbai,Kolkata,6900,2.4,First Class,
+P108,SpiceJet,Delhi,Bengaluru,7800,2.8,Business,
+P109,Vistara,Pune,Mumbai,3900,1.2,Economy,20
+P110,Akasa Air,Chennai,Jaipur,6700,2.3,Economy,
+P111,IndiGo,Delhi,Mumbai,4800,2,Economy,35
+P112,IndiGo,Delhi,Mumbai,4800,2,Economy,40
+P113,Air India,Chennai,Delhi,7200,2.6,Business,50
+P114,Air India,Chennai,Delhi,7200,2.6,Business,60
+P115,SpiceJet,Bengaluru,Hyderabad,4100,1.4,Economy,70
+P116,SpiceJet,Bengaluru,Hyderabad,4100,1.4,Economy,80
+P117,Vistara,Kolkata,Pune,5600,2,Economy,90
+P118,Akasa Air,Jaipur,Delhi,4500,1.5,Economy,100
+P119,IndiGo,Hyderabad,Chennai,6100,2.1,Business,110
+P120,Air India,Mumbai,Kolkata,6900,2.4,First Class,120
+P021,IndiGo,Mumbai,Chennai,6400,2.2,Economy,

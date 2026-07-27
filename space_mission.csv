@@ -1,0 +1,102 @@
+﻿Mission_Name,Country,Rocket_Type,Launch_Year,Mission_Cost,Payload_Weight,Success
+Mission_1,USA,Falcon 9,2020,120,8500,Yes
+Mission_2,India,PSLV,2019,80,1800,Yes
+Mission_3,Russia,Soyuz,2018,150,7200,Yes
+Mission_4,China,Long March,2017,,12000,Yes
+Mission_5,Japan,H-IIA,2016,,6000,No
+Mission_6,France,Ariane 5,2022,250,15000,Yes
+Mission_7,USA,Falcon Heavy,2023,350,22000,Yes
+Mission_8,India,GSLV,2016,95,4000,Yes
+Mission_9,Russia,Proton,2015,170,11000,No
+Mission_10,China,Long March,2024,260,,Yes
+Mission_11,USA,Falcon 9,2018,130,,Yes
+Mission_12,India,PSLV,2020,85,1600,Yes
+Mission_13,France,Ariane 5,2019,280,17000,Yes
+Mission_14,Japan,H-IIA,2021,190,,Yes
+Mission_15,Russia,Soyuz,2017,145,7000,No
+Mission_16,China,Long March,2022,230,14500,Yes
+Mission_17,USA,Falcon Heavy,2023,380,,Yes
+Mission_18,India,GSLV,2015,100,4200,Yes
+Mission_19,France,Ariane 5,2018,270,16500,Yes
+Mission_20,Japan,H-IIA,2020,185,,No
+Mission_21,USA,Falcon 9,2024,140,9800,Yes
+Mission_22,India,PSLV,2016,75,1400,Yes
+Mission_23,Russia,Proton,2019,175,,Yes
+Mission_24,China,Long March,2021,240,15500,Yes
+Mission_25,France,Ariane 5,2022,290,,Yes
+Mission_26,USA,Falcon Heavy,2020,360,23000,Yes
+Mission_27,India,GSLV,2018,110,5000,No
+Mission_28,Japan,H-IIA,2017,170,5800,Yes
+Mission_29,Russia,Soyuz,2023,160,7500,Yes
+Mission_30,China,Long March,2024,250,19000,Yes
+Mission_31,USA,Falcon 9,2019,125,8700,Yes
+Mission_32,India,PSLV,2021,90,2200,Yes
+Mission_33,France,Ariane 5,2016,265,16000,No
+Mission_34,Japan,H-IIA,2022,195,6800,Yes
+Mission_35,Russia,Proton,2020,180,11800,Yes
+Mission_36,China,Long March,2018,210,13000,Yes
+Mission_37,USA,Falcon Heavy,2024,390,24500,Yes
+Mission_38,India,GSLV,2017,105,4300,Yes
+Mission_39,France,Ariane 5,2023,300,18000,Yes
+Mission_40,Japan,H-IIA,2019,175,5900,No
+Mission_41,Russia,Soyuz,2021,155,7100,Yes
+Mission_42,China,Long March,2020,220,14000,Yes
+Mission_43,USA,Falcon 9,2022,135,9200,Yes
+Mission_44,India,PSLV,2015,70,1300,Yes
+Mission_45,France,Ariane 5,2024,,18500,Yes
+Mission_46,Japan,H-IIA,2018,,6100,Yes
+Mission_47,Russia,Proton,2022,190,12000,No
+Mission_48,China,Long March,2019,215,13500,Yes
+Mission_49,USA,Falcon Heavy,2021,370,23500,Yes
+Mission_50,India,GSLV,2023,115,5200,Yes
+Mission_51,Russia,Soyuz,2016,,6800,Yes
+Mission_52,China,Long March,2022,225,14200,Yes
+Mission_53,USA,Falcon 9,2023,145,9600,Yes
+Mission_54,India,PSLV,2018,82,1900,Yes
+Mission_55,France,Ariane 5,2020,285,17200,Yes
+Mission_56,Japan,H-IIA,2021,190,6400,No
+Mission_57,Russia,Proton,2024,195,12100,Yes
+Mission_58,China,Long March,2017,205,12800,Yes
+Mission_59,USA,Falcon Heavy,2022,380,24000,Yes
+Mission_60,India,GSLV,2019,110,4700,Yes
+Mission_61,France,Ariane 5,2018,275,16800,Yes
+Mission_62,Japan,H-IIA,2023,200,7000,Yes
+Mission_63,Russia,Soyuz,2020,160,7600,Yes
+Mission_64,China,Long March,2021,235,15000,Yes
+Mission_65,USA,Falcon 9,2017,125,8400,No
+Mission_66,India,PSLV,2024,90,2400,Yes
+Mission_67,France,Ariane 5,2019,295,17800,Yes
+Mission_68,Japan,H-IIA,2016,175,5600,Yes
+Mission_69,Russia,Proton,2022,185,11600,Yes
+Mission_70,China,Long March,2023,245,16500,Yes
+Mission_71,USA,Falcon Heavy,2020,365,22800,Yes
+Mission_72,India,GSLV,2018,108,4500,Yes
+Mission_73,France,Ariane 5,2021,290,17400,No
+Mission_74,Japan,H-IIA,2024,205,7100,Yes
+Mission_75,Russia,Soyuz,2019,158,7300,Yes
+Mission_76,China,Long March,2015,198,12400,Yes
+Mission_77,USA,Falcon 9,2022,138,9100,Yes
+Mission_78,India,PSLV,2017,78,1500,Yes
+Mission_79,France,Ariane 5,2023,305,18200,Yes
+Mission_80,Japan,H-IIA,2020,188,6200,Yes
+Mission_81,Russia,Proton,2018,178,11400,No
+Mission_82,China,Long March,2024,255,18800,Yes
+Mission_83,USA,Falcon Heavy,2021,375,23600,Yes
+Mission_84,India,GSLV,2016,102,4100,Yes
+Mission_85,France,Ariane 5,2022,300,18000,Yes
+Mission_86,Japan,H-IIA,2019,180,6000,Yes
+Mission_87,Russia,Soyuz,2023,165,7800,Yes
+Mission_88,China,Long March,2020,218,13800,Yes
+Mission_89,USA,Falcon 9,2018,132,8900,Yes
+Mission_90,India,PSLV,2021,88,2100,No
+Mission_91,France,Ariane 5,2017,270,16200,Yes
+Mission_92,Japan,H-IIA,2022,198,6900,Yes
+Mission_93,Russia,Proton,2021,182,11800,Yes
+Mission_94,China,Long March,2019,212,13200,Yes
+Mission_95,USA,Falcon Heavy,2024,395,24800,Yes
+Mission_96,India,GSLV,2020,112,5000,Yes
+Mission_97,France,Ariane 5,2016,260,15800,Yes
+Mission_98,Japan,H-IIA,2018,178,5800,Yes
+Mission_99,Russia,Soyuz,2022,162,7400,No
+Mission_100,China,Long March,2024,250,18500,Yes
+Mission_99,Russia,Soyuz,2022,162,7400,No
