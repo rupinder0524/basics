@@ -1,111 +1,19 @@
-# # To store information of 1 student.
-
-
-# # name = "Tanvir"
-# # age = 20
-# # course = "BCA"
-# # marks = 85
-
-
-# # Programming is not only about making code work!!!! 
-
-
-# # Programming is about making code organised, reusable, readable and easy to maintain
-
-# # OOP
-
-
-# # OOP => Object Oriented Programming
-
-# # OOP is a way of writing programs where every real-world thing becomes an object 
-
-
-
-# # student
-# # Car
-# # Mobile
-# # Bank Account
-
-
-# # class = Data (Attributes) + Functions (Methods)
-
-
-# # 4 Pillars of OOP
-
-# # - Class ( A Blueprint for creating objects)
-
-# class Student:
-#     pass
-
-
-# # Object ( A object is an instance of a class)
-
-# student1 = Student()
-# student2 = Student()
-
-# # Attributes
-
-# class Student:
-#     pass
-
-# student1 = Student()
-
-# student1.name = "Tanvir"
-# student1.age = 20
-
-# print(student1.name)
-# print(student1.age)
-
-
-# # Constructor (init)
-
-# # This is the most important part 
-
-
-# # class Student:
-
-# #     def __init__(self,name,age):
-# #         self.name = name
-# #         self.age = age
-
-# # student1 = Student("Rahul",21)
-# # student2 = Student("Vaneet",20)
-
-
-# # print(student1.name)
-# # print(student2.name)
-
-
-# # __init__ special method (Interview question)
-
-# # Magic methods
-# # Dunder methods
-
-
-# # Extra 
-# # __init__
-# # __str__
-# # __len__
-# # __add__
-
-
-# # Class => Object => Attributes => Constructor => Methods
 # Excercise-1
 
-# class student:
-#     def __init__(self,name,age,course):
+class student:
+    def __init__(self,name,age,course):
 
-#         self.name=name
-#         self.age=age
-#         self.course=course
-#     def display(self):
-#         print("Name is: ",self.name)
-#         print("age is: ",self.age)
-#         print("Course: ",self.course)
-# student1= student ("Nick",20,"BCA")
-# student2=student("john",21,"BCA")
-# student1.display()
-# student2.display()
+        self.name=name
+        self.age=age
+        self.course=course
+    def display(self):
+        print("Name is: ",self.name)
+        print("age is: ",self.age)
+        print("Course: ",self.course)
+student1= student ("Nick",20,"BCA")
+student2=student("john",21,"BCA")
+student1.display()
+student2.display()
 
 
 #  Excercise-2
@@ -358,48 +266,47 @@
     
 
 # Excercise-15
-class student:
-    def __init__(self,RollNumber,Name,Course,Marks):
-        self.RollNumber=RollNumber
-        self.Name=Name
-        self.Course=Course
-        self.Marks=Marks
-    def display(self):
-        print("RollNumber:",self.RollNumber)
-        print("Name:",self.Name)
-        print("Course:",self.Course)
-        print("Marks:",self.Marks)
-    def grade(self):
-        if self.Marks>=90:
-            print("Grade A")
-        elif self.Marks>75 and self.Marks<89:
-            print("Grade B")
-        elif self.Marks>54 and self.Marks<74:
-            print("Grade C")
-        else:
-            print("fail")
-student1=student(1,"Nick","BCA",57)
-student2=student(2,"John","BCA",98)
-student3=student(3,"David","BCA",65)
-student4=student(4,"Lily","BCA",24)
-student5=student(5,"Mariam","BCA",78)
+# class student:
+#     def __init__(self,RollNumber,Name,Course,Marks):
+#         self.RollNumber=RollNumber
+#         self.Name=Name
+#         self.Course=Course
+#         self.Marks=Marks
+#     def display(self):
+#         print("RollNumber:",self.RollNumber)
+#         print("Name:",self.Name)
+#         print("Course:",self.Course)
+#         print("Marks:",self.Marks)
+#     def grade(self):
+#         if self.Marks>=90:
+#             print("Grade A")
+#         elif self.Marks>75 and self.Marks<89:
+#             print("Grade B")
+#         elif self.Marks>54 and self.Marks<74:
+#             print("Grade C")
+#         else:
+#             print("fail")
+# student1=student(1,"Nick","BCA",57)
+# student2=student(2,"John","BCA",98)
+# student3=student(3,"David","BCA",65)
+# student4=student(4,"Lily","BCA",24)
+# student5=student(5,"Mariam","BCA",78)
 
-students=[student1,student2,student3,student4,student5]
-for student in students:
-    student.display()
-    student.grade()
-highest_student = students[0]
-
-for student in students:
-    if student.Marks > highest_student.Marks:
-        highest_student = student
-print("\nHighest Marks Student")
-highest_student.display()
-print("Grade:", highest_student.grade())
-total_marks = 0
-for student in students:
-    total_marks += student.Marks
-average = total_marks / len(students)
-print("\n Average Marks of All Students:", average)
+# students=[student1,student2,student3,student4,student5]
+# for student in students:
+#     student.display()
+#     student.grade()
+# highest_student = students[0]
+# for student in students:
+#     if student.Marks > highest_student.Marks:
+#         highest_student = student
+# print("\nHighest Marks Student")
+# highest_student.display()
+# print("Grade:", highest_student.grade())
+# total_marks = 0
+# for student in students:
+#     total_marks += student.Marks
+# average = total_marks / len(students)
+# print("\n Average Marks of All Students:", average)
 
         

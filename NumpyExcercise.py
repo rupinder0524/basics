@@ -143,6 +143,7 @@
 # average=np.mean(Passengers)
 # print("days with Passengers above average: ",days[Passengers>average])
 
+
 # Exercise 12
 
 # import numpy as np
@@ -186,6 +187,37 @@
 # print("Days above 35°C: ",days[temperature>35])
 # print("Days below 20°C: ",days[temperature<20])
 # print("Temperatures between 25°C and 30°C",temperature[(temperature >= 25) & (temperature <= 30)])
+
+
+# Excercise-15
+
+# import csv
+# import numpy as np
+# with open("Medal Record.csv","w",newline="")as file:
+#     writer=csv.writer(file)
+#     writer.writerow(["country","gold","silver","bronze"])
+#     writer.writerow(["India",20,14,12])
+#     writer.writerow(["Canada",24,15,30])
+#     writer.writerow(["USA",27,25,37])
+# gold=[]
+# medal=[]
+# country=[]
+# with open("Medal Record.csv","r")as file:
+#     reader=csv.reader(file)
+#     next(reader)
+#     for row in reader:
+#         gold.append(row[1])
+#         country.append(row[0])
+#         total=int(row[1])+int(row[2])+int(row[3])
+#         medal.append(total)
+#         print(row[0],"has",total,"medal")
+# gold=np.array(gold)
+# medal=np.array(medal)
+# index1=np.argmax(gold)
+# index2=np.argmax(medal)
+# print("Country with maximum gold medals: ",country[index1])
+# print("Country with highest total medals: ",country[index2])
+
 
 # Exercise 16
 
@@ -245,33 +277,6 @@
 # print("Students above Average:",student[English_Marks>Average])
 # print("Students below Average:",student[English_Marks<Average])
 
-# Exercise 20
-# import numpy as np
-# temperature = np.array([
-#     22.5, 23.2, 21.8, 20.6, 19.4, 18.7,
-#     17.9, 18.3, 21.5, 25.2, 28.6, 30.1,
-#     32.4, 33.7, 34.5, 35.8, 33.9, 31.6,
-#     29.8, 27.4, 26.2, 25.6, 24.3, 23.1
-# ])
-# print("Maximum Temperature:",np.max(temperature))
-# print()
-# print("Minimum Temperature:",np.min(temperature))
-# print()
-# reshaped=temperature.reshape((6,4))
-# print()
-# print("After reshaping of Array")
-# print(reshaped)
-# print("Average Temperature (in rows):",np.mean(reshaped,axis=0))
-# print()
-# print("Average Temperature (in Columns):",np.mean(reshaped,axis=1))
-# print()
-# flattned=reshaped.flatten()
-# print(flattned,flattned.shape)
-# print()
-# print("After round off:\n",np.round(temperature))
-# print()
-# print("All unique values:\n",np.unique(temperature))
-
 
 # Exercise 19
 
@@ -304,56 +309,33 @@
 # print("Lowest Sales Day:", date[np.argmin(total_sales)])
 # print("Average Daily Sales:", np.mean(total_sales))
 
-# import csv
-# with open("Sales_Report.csv","w",newline="")as file:
-#     writer=csv.writer(file)
-#     writer.writerow(["Date","Pertrol Sold","Diseal Sold"])
-#     writer.writerow([21,1500,1600])
-#     writer.writerow([14,1400,1700])
-# with open("Sales_Report .csv","r")as file:
-#     reader=csv.reader(file)
+
+
+# Exercise 20
 
 # import numpy as np
-# print("Total Petrol Sold: ",np.sum)
+# temperature = np.array([
+#     22.5, 23.2, 21.8, 20.6, 19.4, 18.7,
+#     17.9, 18.3, 21.5, 25.2, 28.6, 30.1,
+#     32.4, 33.7, 34.5, 35.8, 33.9, 31.6,
+#     29.8, 27.4, 26.2, 25.6, 24.3, 23.1
+# ])
+# print("Maximum Temperature:",np.max(temperature))
+# print()
+# print("Minimum Temperature:",np.min(temperature))
+# print()
+# reshaped=temperature.reshape((6,4))
+# print()
+# print("After reshaping of Array")
+# print(reshaped)
+# print("Average Temperature (in rows):",np.mean(reshaped,axis=0))
+# print()
+# print("Average Temperature (in Columns):",np.mean(reshaped,axis=1))
+# print()
+# flattned=reshaped.flatten()
+# print(flattned,flattned.shape)
+# print()
+# print("After round off:\n",np.round(temperature))
+# print()
+# print("All unique values:\n",np.unique(temperature))
 
-# Olympic Medal Table
-# Create a CSV:
-# Columns:
-
-# Country
-# Gold
-# Silver
-# Bronze
-# Read the file.
-# Calculate:
-
-# Total medals for each country.
-# Country with maximum gold medals.
-# Country with highest total medals.
-
-import csv
-import numpy as np
-with open("Medal Record.csv","w",newline="")as file:
-    writer=csv.writer(file)
-    writer.writerow(["country","gold","silver","bronze"])
-    writer.writerow(["India",20,14,12])
-    writer.writerow(["Canada",24,15,30])
-    writer.writerow(["USA",27,25,37])
-gold=[]
-medal=[]
-country=[]
-with open("Medal Record.csv","r")as file:
-    reader=csv.reader(file)
-    next(reader)
-    for row in reader:
-        gold.append(row[1])
-        country.append(row[0])
-        total=int(row[1])+int(row[2])+int(row[3])
-        medal.append(total)
-        print(row[0],"has",total,"medal")
-gold=np.array(gold)
-medal=np.array(medal)
-index1=np.argmax(gold)
-index2=np.argmax(medal)
-print("Country with maximum gold medals: ",country[index1])
-print("Country with highest total medals: ",country[index2])

@@ -84,17 +84,17 @@
 # Exercise 9:
 # Create a global variable named counter. Write a function that increments the value of counter each time it is called using the global keyword. Call the function five times and display the updated value
 
-counter=0
-def increment():
-    global counter
-    counter+=1
-increment()
-increment()
-increment()
-increment()
-increment()
-increment()
-print(counter)
+# counter=0
+# def increment():
+#     global counter
+#     counter+=1
+# increment()
+# increment()
+# increment()
+# increment()
+# increment()
+# increment()
+# print(counter)
 
 
 # Exercise 10:

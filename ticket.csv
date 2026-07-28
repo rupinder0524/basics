@@ -1,0 +1,301 @@
+﻿Booking_ID,Movie,Seat_Type,Ticket_Price,Number_of_Tickets,Booking_Day
+B001,Avatar 2,Regular,12,2,Monday
+B002,Oppenheimer,Premium,18,3,Tuesday
+B003,Barbie,VIP,25,2,Wednesday
+B004,Jawan,Regular,10,4,Thursday
+B005,Leo,Premium,16,2,Friday
+B006,Salaar,VIP,22,3,Saturday
+B007,Animal,Regular,11,1,Sunday
+B008,Dunki,Premium,17,2,Monday
+B009,Pathaan,VIP,24,4,Tuesday
+B010,Fighter,Regular,13,3,Wednesday
+B011,Avatar 2,Premium,18,2,Thursday
+B012,Oppenheimer,VIP,26,2,Friday
+B013,Barbie,Regular,11,3,Saturday
+B014,Jawan,Premium,17,1,Sunday
+B015,Leo,VIP,23,4,Monday
+B016,Salaar,Regular,12,2,Tuesday
+B017,Animal,Premium,18,3,Wednesday
+B018,Dunki,VIP,24,2,Thursday
+B019,Pathaan,Regular,10,5,Friday
+B020,Fighter,Premium,16,2,Saturday
+B021,Avatar 2,VIP,25,1,Sunday
+B022,Oppenheimer,Regular,12,4,Monday
+B023,Barbie,Premium,18,2,Tuesday
+B024,Jawan,VIP,22,3,Wednesday
+B025,Leo,Regular,11,2,Thursday
+B026,Salaar,Premium,17,4,Friday
+B027,Animal,VIP,24,2,Saturday
+B028,Dunki,Regular,10,3,Sunday
+B029,Pathaan,Premium,18,2,Monday
+B030,Fighter,VIP,26,4,Tuesday
+B031,Avatar 2,Regular,13,2,Wednesday
+B032,Oppenheimer,Premium,17,3,Thursday
+B033,Barbie,VIP,25,2,Friday
+B034,Jawan,Regular,10,4,Saturday
+B035,Leo,Premium,16,1,Sunday
+B036,Salaar,VIP,23,3,Monday
+B037,Animal,Regular,12,2,Tuesday
+B038,Dunki,Premium,18,4,Wednesday
+B039,Pathaan,VIP,24,2,Thursday
+B040,Fighter,Regular,11,5,Friday
+B041,Avatar 2,Premium,18,2,Saturday
+B042,Oppenheimer,VIP,25,3,Sunday
+B043,Barbie,Regular,10,2,Monday
+B044,Jawan,Premium,17,4,Tuesday
+B045,Leo,VIP,22,2,Wednesday
+B046,Salaar,Regular,13,3,Thursday
+B047,Animal,Premium,18,1,Friday
+B048,Dunki,VIP,24,4,Saturday
+B049,Pathaan,Regular,11,2,Sunday
+B050,Fighter,Premium,16,3,Monday
+B051,Avatar 2,VIP,25,2,Tuesday
+B052,Oppenheimer,Regular,12,4,Wednesday
+B053,Barbie,Premium,18,2,Thursday
+B054,Jawan,VIP,23,3,Friday
+B055,Leo,Regular,10,1,Saturday
+B056,Salaar,Premium,17,4,Sunday
+B057,Animal,VIP,24,2,Monday
+B058,Dunki,Regular,11,3,Tuesday
+B059,Pathaan,Premium,18,2,Wednesday
+B060,Fighter,VIP,26,4,Thursday
+B061,Avatar 2,Regular,12,2,Friday
+B062,Oppenheimer,Premium,16,3,Saturday
+B063,Barbie,VIP,24,2,Sunday
+B064,Jawan,Regular,10,5,Monday
+B065,Leo,Premium,18,2,Tuesday
+B066,Salaar,VIP,22,3,Wednesday
+B067,Animal,Regular,13,1,Thursday
+B068,Dunki,Premium,17,2,Friday
+B069,Pathaan,VIP,25,4,Saturday
+B070,Fighter,Regular,11,3,Sunday
+B071,Avatar 2,Premium,18,2,Monday
+B072,Oppenheimer,VIP,24,3,Tuesday
+B073,Barbie,Regular,10,2,Wednesday
+B074,Jawan,Premium,16,4,Thursday
+B075,Leo,VIP,23,2,Friday
+B076,Salaar,Regular,12,3,Saturday
+B077,Animal,Premium,17,1,Sunday
+B078,Dunki,VIP,25,4,Monday
+B079,Pathaan,Regular,11,2,Tuesday
+B080,Fighter,Premium,18,3,Wednesday
+B081,Avatar 2,VIP,24,2,Thursday
+B082,Oppenheimer,Regular,10,5,Friday
+B083,Barbie,Premium,16,2,Saturday
+B084,Jawan,VIP,22,3,Sunday
+B085,Leo,Regular,12,1,Monday
+B086,Salaar,Premium,18,4,Tuesday
+B087,Animal,VIP,25,2,Wednesday
+B088,Dunki,Regular,11,3,Thursday
+B089,Pathaan,Premium,17,2,Friday
+B090,Fighter,VIP,24,4,Saturday
+B091,Avatar 2,Regular,13,2,Sunday
+B092,Oppenheimer,Premium,18,3,Monday
+B093,Barbie,VIP,26,2,Tuesday
+B094,Jawan,Regular,10,4,Wednesday
+B095,Leo,Premium,16,2,Thursday
+B096,Salaar,VIP,23,3,Friday
+B097,Animal,Regular,12,1,Saturday
+B098,Dunki,Premium,17,2,Sunday
+B099,Pathaan,VIP,24,4,Monday
+B100,Fighter,Regular,11,3,Tuesday
+B101,Avatar 2,Premium,18,2,Wednesday
+B102,Oppenheimer,VIP,25,3,Thursday
+B103,Barbie,Regular,11,2,Friday
+B104,Jawan,Premium,17,4,Saturday
+B105,Leo,VIP,24,2,Sunday
+B106,Salaar,Regular,12,3,Monday
+B107,Animal,Premium,18,1,Tuesday
+B108,Dunki,VIP,26,4,Wednesday
+B109,Pathaan,Regular,10,2,Thursday
+B110,Fighter,Premium,16,3,Friday
+B111,Avatar 2,VIP,23,2,Saturday
+B112,Oppenheimer,Regular,11,5,Sunday
+B113,Barbie,Premium,17,2,Monday
+B114,Jawan,VIP,25,3,Tuesday
+B115,Leo,Regular,12,1,Wednesday
+B116,Salaar,Premium,18,4,Thursday
+B117,Animal,VIP,24,2,Friday
+B118,Dunki,Regular,10,3,Saturday
+B119,Pathaan,Premium,16,2,Sunday
+B120,Fighter,VIP,22,4,Monday
+B121,Avatar 2,Regular,13,2,Tuesday
+B122,Oppenheimer,Premium,18,3,Wednesday
+B123,Barbie,VIP,25,2,Thursday
+B124,Jawan,Regular,10,4,Friday
+B125,Leo,Premium,17,2,Saturday
+B126,Salaar,VIP,23,3,Sunday
+B127,Animal,Regular,11,1,Monday
+B128,Dunki,Premium,18,2,Tuesday
+B129,Pathaan,VIP,24,4,Wednesday
+B130,Fighter,Regular,12,3,Thursday
+B131,Avatar 2,Premium,16,2,Friday
+B132,Oppenheimer,VIP,26,3,Saturday
+B133,Barbie,Regular,10,2,Sunday
+B134,Jawan,Premium,18,4,Monday
+B135,Leo,VIP,24,2,Tuesday
+B136,Salaar,Regular,11,3,Wednesday
+B137,Animal,Premium,17,1,Thursday
+B138,Dunki,VIP,25,4,Friday
+B139,Pathaan,Regular,13,2,Saturday
+B140,Fighter,Premium,18,3,Sunday
+B141,Avatar 2,VIP,23,2,Monday
+B142,Oppenheimer,Regular,10,5,Tuesday
+B143,Barbie,Premium,16,2,Wednesday
+B144,Jawan,VIP,22,3,Thursday
+B145,Leo,Regular,12,1,Friday
+B146,Salaar,Premium,18,4,Saturday
+B147,Animal,VIP,24,2,Sunday
+B148,Dunki,Regular,11,3,Monday
+B149,Pathaan,Premium,17,2,Tuesday
+B150,Fighter,VIP,25,4,Wednesday
+B151,Avatar 2,Regular,10,2,Thursday
+B152,Oppenheimer,Premium,18,3,Friday
+B153,Barbie,VIP,24,2,Saturday
+B154,Jawan,Regular,13,4,Sunday
+B155,Leo,Premium,16,2,Monday
+B156,Salaar,VIP,23,3,Tuesday
+B157,Animal,Regular,11,1,Wednesday
+B158,Dunki,Premium,18,2,Thursday
+B159,Pathaan,VIP,25,4,Friday
+B160,Fighter,Regular,12,3,Saturday
+B161,Avatar 2,Premium,17,2,Sunday
+B162,Oppenheimer,VIP,24,3,Monday
+B163,Barbie,Regular,10,2,Tuesday
+B164,Jawan,Premium,16,4,Wednesday
+B165,Leo,VIP,22,2,Thursday
+B166,Salaar,Regular,13,3,Friday
+B167,Animal,Premium,18,1,Saturday
+B168,Dunki,VIP,26,4,Sunday
+B169,Pathaan,Regular,11,2,Monday
+B170,Fighter,Premium,17,3,Tuesday
+B171,Avatar 2,VIP,24,2,Wednesday
+B172,Oppenheimer,Regular,10,5,Thursday
+B173,Barbie,Premium,18,2,Friday
+B174,Jawan,VIP,23,3,Saturday
+B175,Leo,Regular,12,1,Sunday
+B176,Salaar,Premium,16,4,Monday
+B177,Animal,VIP,25,2,Tuesday
+B178,Dunki,Regular,11,3,Wednesday
+B179,Pathaan,Premium,17,2,Thursday
+B180,Fighter,VIP,24,4,Friday
+B181,Avatar 2,Regular,13,2,Saturday
+B182,Oppenheimer,Premium,18,3,Sunday
+B183,Barbie,VIP,26,2,Monday
+B184,Jawan,Regular,10,4,Tuesday
+B185,Leo,Premium,16,2,Wednesday
+B186,Salaar,VIP,22,3,Thursday
+B187,Animal,Regular,12,1,Friday
+B188,Dunki,Premium,17,2,Saturday
+B189,Pathaan,VIP,24,4,Sunday
+B190,Fighter,Regular,11,3,Monday
+B191,Avatar 2,Premium,18,2,Tuesday
+B192,Oppenheimer,VIP,25,3,Wednesday
+B193,Barbie,Regular,10,2,Thursday
+B194,Jawan,Premium,17,4,Friday
+B195,Leo,VIP,23,2,Saturday
+B196,Salaar,Regular,13,3,Sunday
+B197,Animal,Premium,18,1,Monday
+B198,Dunki,VIP,24,4,Tuesday
+B199,Pathaan,Regular,11,2,Wednesday
+B200,Fighter,Premium,16,3,Thursday
+B201,Avatar 2,VIP,25,2,Friday
+B202,Oppenheimer,Regular,12,4,Saturday
+B203,Barbie,Premium,18,2,Sunday
+B204,Jawan,VIP,23,3,Monday
+B205,Leo,Regular,10,1,Tuesday
+B206,Salaar,Premium,17,4,Wednesday
+B207,Animal,VIP,24,2,Thursday
+B208,Dunki,Regular,11,3,Friday
+B209,Pathaan,Premium,18,2,Saturday
+B210,Fighter,VIP,26,4,Sunday
+B211,Avatar 2,Regular,13,2,Monday
+B212,Oppenheimer,Premium,17,3,Tuesday
+B213,Barbie,VIP,24,2,Wednesday
+B214,Jawan,Regular,10,5,Thursday
+B215,Leo,Premium,16,2,Friday
+B216,Salaar,VIP,22,3,Saturday
+B217,Animal,Regular,12,1,Sunday
+B218,Dunki,Premium,18,2,Monday
+B219,Pathaan,VIP,25,4,Tuesday
+B220,Fighter,Regular,11,3,Wednesday
+B221,Avatar 2,Premium,18,2,Thursday
+B222,Oppenheimer,VIP,24,3,Friday
+B223,Barbie,Regular,10,2,Saturday
+B224,Jawan,Premium,16,4,Sunday
+B225,Leo,VIP,23,2,Monday
+B226,Salaar,Regular,13,3,Tuesday
+B227,Animal,Premium,18,1,Wednesday
+B228,Dunki,VIP,25,4,Thursday
+B229,Pathaan,Regular,11,2,Friday
+B230,Fighter,Premium,17,3,Saturday
+B231,Avatar 2,VIP,24,2,Sunday
+B232,Oppenheimer,Regular,10,5,Monday
+B233,Barbie,Premium,18,2,Tuesday
+B234,Jawan,VIP,22,3,Wednesday
+B235,Leo,Regular,12,1,Thursday
+B236,Salaar,Premium,16,4,Friday
+B237,Animal,VIP,25,2,Saturday
+B238,Dunki,Regular,11,3,Sunday
+B239,Pathaan,Premium,17,2,Monday
+B240,Fighter,VIP,24,4,Tuesday
+B241,Avatar 2,Regular,13,2,Wednesday
+B242,Oppenheimer,Premium,18,3,Thursday
+B243,Barbie,VIP,26,2,Friday
+B244,Jawan,Regular,10,4,Saturday
+B245,Leo,Premium,16,2,Sunday
+B246,Salaar,VIP,23,3,Monday
+B247,Animal,Regular,12,1,Tuesday
+B248,Dunki,Premium,17,2,Wednesday
+B249,Pathaan,VIP,24,4,Thursday
+B250,Fighter,Regular,11,3,Friday
+B251,Avatar 2,Premium,18,2,Saturday
+B252,Oppenheimer,VIP,25,3,Sunday
+B253,Barbie,Regular,10,2,Monday
+B254,Jawan,Premium,17,4,Tuesday
+B255,Leo,VIP,23,2,Wednesday
+B256,Salaar,Regular,13,3,Thursday
+B257,Animal,Premium,18,1,Friday
+B258,Dunki,VIP,24,4,Saturday
+B259,Pathaan,Regular,11,2,Sunday
+B260,Fighter,Premium,16,3,Monday
+B261,Avatar 2,VIP,25,2,Tuesday
+B262,Oppenheimer,Regular,12,4,Wednesday
+B263,Barbie,Premium,18,2,Thursday
+B264,Jawan,VIP,22,3,Friday
+B265,Leo,Regular,10,1,Saturday
+B266,Salaar,Premium,17,4,Sunday
+B267,Animal,VIP,24,2,Monday
+B268,Dunki,Regular,11,3,Tuesday
+B269,Pathaan,Premium,18,2,Wednesday
+B270,Fighter,VIP,26,4,Thursday
+B271,Avatar 2,Regular,13,2,Friday
+B272,Oppenheimer,Premium,17,3,Saturday
+B273,Barbie,VIP,25,2,Sunday
+B274,Jawan,Regular,10,5,Monday
+B275,Leo,Premium,16,2,Tuesday
+B276,Salaar,VIP,23,3,Wednesday
+B277,Animal,Regular,12,1,Thursday
+B278,Dunki,Premium,18,2,Friday
+B279,Pathaan,VIP,24,4,Saturday
+B280,Fighter,Regular,11,3,Sunday
+B281,Avatar 2,Premium,18,2,Monday
+B282,Oppenheimer,VIP,26,3,Tuesday
+B283,Barbie,Regular,10,2,Wednesday
+B284,Jawan,Premium,17,4,Thursday
+B285,Leo,VIP,22,2,Friday
+B286,Salaar,Regular,13,3,Saturday
+B287,Animal,Premium,18,1,Sunday
+B288,Dunki,VIP,24,4,Monday
+B289,Pathaan,Regular,11,2,Tuesday
+B290,Fighter,Premium,16,3,Wednesday
+B291,Avatar 2,VIP,25,2,Thursday
+B292,Oppenheimer,Regular,12,4,Friday
+B293,Barbie,Premium,18,2,Saturday
+B294,Jawan,VIP,23,3,Sunday
+B295,Leo,Regular,10,1,Monday
+B296,Salaar,Premium,17,4,Tuesday
+B297,Animal,VIP,24,2,Wednesday
+B298,Dunki,Regular,11,3,Thursday
+B299,Pathaan,Premium,18,2,Friday
+B300,Fighter,VIP,26,4,Saturday
