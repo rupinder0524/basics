@@ -1,0 +1,17 @@
+﻿Employee_ID,Name,Age,Experience ,Education,Skills,Department,Salary 
+101,Rahul,25,2,B.Tech,Python,IT,40000
+102,Neha,28,4,M.Tech,Java,IT,65000
+103,Amit,30,6,B.Tech,Python,Data Science,85000
+104,Priya,24,8,BCA,SQL,Database,35000
+105,Arjun,35,10,MBA,Management,HR,95000
+106,Sneha,27,2,B.Tech,Java,IT,55000
+107,Vikram,40,4,M.Tech,AI/ML,Data Science,120000
+108,Anjali,32,10,MCA,Python,Data Science,90000
+109,Rohan,26,8,BCA,Web Development,IT,45000
+110,Kavita,38,10,MBA,Management,HR,110000
+111,Manish,29,6,B.Tech,Java,IT,70000
+112,Pooja,31,2,MCA,Python,Data Science,95000
+113,Suresh,45,4,M.Tech,AI/ML,Research,150000
+114,Meena,34,6,MBA,Finance,Finance,100000
+115,Raj,27,8,B.Tech,Cloud Computing,IT,60000
+,,,,,,,

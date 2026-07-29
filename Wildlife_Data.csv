@@ -1,0 +1,201 @@
+﻿Animal,Species,Weight (kg),Age (Years),Forest
+Animal_001,Tiger,220,8,Sundarbans
+Animal_002,Elephant,4200,25,Kaziranga
+Animal_003,Deer,95,5,Jim Corbett
+Animal_004,Leopard,70,7,Ranthambore
+Animal_005,Bear,180,10,Bandipur
+Animal_006,Monkey,28,6,Gir
+Animal_007,Fox,12,4,Kanha
+Animal_008,Wolf,42,8,Pench
+Animal_009,Bison,680,12,Nagarhole
+Animal_010,Rhino,2300,18,Kaziranga
+Animal_011,Tiger,210,7,Sundarbans
+Animal_012,Elephant,4100,24,Periyar
+Animal_013,Deer,90,6,Jim Corbett
+Animal_014,Leopard,72,8,Bandipur
+Animal_015,Bear,185,11,Kanha
+Animal_016,Monkey,30,5,Gir
+Animal_017,Fox,13,3,Pench
+Animal_018,Wolf,45,9,Nagarhole
+Animal_019,Bison,700,13,Kaziranga
+Animal_020,Rhino,2250,17,Kaziranga
+Animal_021,Tiger,215,9,Sundarbans
+Animal_022,Elephant,4300,26,Periyar
+Animal_023,Deer,100,5,Jim Corbett
+Animal_024,Leopard,75,7,Ranthambore
+Animal_025,Bear,190,10,Bandipur
+Animal_026,Monkey,29,4,Gir
+Animal_027,Fox,14,5,Kanha
+Animal_028,Wolf,43,8,Pench
+Animal_029,Bison,690,11,Nagarhole
+Animal_030,Rhino,2280,19,Kaziranga
+Animal_031,Tiger,225,8,Sundarbans
+Animal_032,Elephant,4250,27,Periyar
+Animal_033,Deer,98,6,Jim Corbett
+Animal_034,Leopard,73,7,Ranthambore
+Animal_035,Bear,182,9,Bandipur
+Animal_036,Monkey,31,6,Gir
+Animal_037,Fox,12,4,Kanha
+Animal_038,Wolf,44,8,Pench
+Animal_039,Bison,705,12,Nagarhole
+Animal_040,Rhino,2320,20,Kaziranga
+Animal_041,Tiger,218,7,Sundarbans
+Animal_042,Elephant,4150,24,Periyar
+Animal_043,Deer,94,5,Jim Corbett
+Animal_044,Leopard,71,6,Ranthambore
+Animal_045,Bear,188,11,Bandipur
+Animal_046,Monkey,27,5,Gir
+Animal_047,Fox,13,3,Kanha
+Animal_048,Wolf,46,9,Pench
+Animal_049,Bison,710,13,Nagarhole
+Animal_050,Rhino,2350,18,Kaziranga
+Animal_051,Tiger,222,8,Sundarbans
+Animal_052,Elephant,4180,23,Kaziranga
+Animal_053,Deer,92,6,Jim Corbett
+Animal_054,Leopard,74,7,Ranthambore
+Animal_055,Bear,175,10,Bandipur
+Animal_056,Monkey,32,5,Gir
+Animal_057,Fox,15,4,Kanha
+Animal_058,Wolf,41,7,Pench
+Animal_059,Bison,675,12,Nagarhole
+Animal_060,Rhino,2290,19,Kaziranga
+Animal_061,Tiger,230,9,Sundarbans
+Animal_062,Elephant,4350,26,Periyar
+Animal_063,Deer,105,5,Jim Corbett
+Animal_064,Leopard,78,8,Ranthambore
+Animal_065,Bear,192,12,Bandipur
+Animal_066,Monkey,34,6,Gir
+Animal_067,Fox,16,5,Kanha
+Animal_068,Wolf,48,9,Pench
+Animal_069,Bison,720,14,Nagarhole
+Animal_070,Rhino,2400,21,Kaziranga
+Animal_071,Tiger,212,7,Sundarbans
+Animal_072,Elephant,4050,22,Periyar
+Animal_073,Deer,88,4,Jim Corbett
+Animal_074,Leopard,69,6,Ranthambore
+Animal_075,Bear,178,9,Bandipur
+Animal_076,Monkey,26,5,Gir
+Animal_077,Fox,11,3,Kanha
+Animal_078,Wolf,39,7,Pench
+Animal_079,Bison,660,10,Nagarhole
+Animal_080,Rhino,2200,16,Kaziranga
+Animal_081,Tiger,228,8,Sundarbans
+Animal_082,Elephant,4400,28,Periyar
+Animal_083,Deer,102,6,Jim Corbett
+Animal_084,Leopard,76,8,Ranthambore
+Animal_085,Bear,195,12,Bandipur
+Animal_086,Monkey,33,6,Gir
+Animal_087,Fox,14,4,Kanha
+Animal_088,Wolf,47,8,Pench
+Animal_089,Bison,715,13,Nagarhole
+Animal_090,Rhino,2380,20,Kaziranga
+Animal_091,Tiger,219,7,Sundarbans
+Animal_092,Elephant,4120,23,Periyar
+Animal_093,Deer,96,5,Jim Corbett
+Animal_094,Leopard,70,6,Ranthambore
+Animal_095,Bear,186,10,Bandipur
+Animal_096,Monkey,29,5,Gir
+Animal_097,Fox,12,3,Kanha
+Animal_098,Wolf,44,9,Pench
+Animal_099,Bison,685,11,Nagarhole
+Animal_100,Rhino,2310,18,Kaziranga
+Animal_101,Tiger,225,8,Sundarbans
+Animal_102,Elephant,4220,25,Kaziranga
+Animal_103,Deer,97,6,Jim Corbett
+Animal_104,Leopard,73,7,Ranthambore
+Animal_105,Bear,184,11,Bandipur
+Animal_106,Monkey,30,5,Gir
+Animal_107,Fox,13,4,Kanha
+Animal_108,Wolf,43,8,Pench
+Animal_109,Bison,695,12,Nagarhole
+Animal_110,Rhino,2330,19,Kaziranga
+Animal_111,Tiger,218,9,Sundarbans
+Animal_112,Elephant,4280,26,Periyar
+Animal_113,Deer,103,5,Jim Corbett
+Animal_114,Leopard,77,8,Ranthambore
+Animal_115,Bear,191,10,Bandipur
+Animal_116,Monkey,35,6,Gir
+Animal_117,Fox,15,5,Kanha
+Animal_118,Wolf,50,9,Pench
+Animal_119,Bison,725,14,Nagarhole
+Animal_120,Rhino,2420,22,Kaziranga
+Animal_121,Tiger,210,7,Sundarbans
+Animal_122,Elephant,4080,23,Periyar
+Animal_123,Deer,89,4,Jim Corbett
+Animal_124,Leopard,68,6,Ranthambore
+Animal_125,Bear,176,9,Bandipur
+Animal_126,Monkey,27,5,Gir
+Animal_127,Fox,10,3,Kanha
+Animal_128,Wolf,40,7,Pench
+Animal_129,Bison,665,11,Nagarhole
+Animal_130,Rhino,2240,17,Kaziranga
+Animal_131,Tiger,232,10,Sundarbans
+Animal_132,Elephant,4450,29,Periyar
+Animal_133,Deer,108,6,Jim Corbett
+Animal_134,Leopard,80,9,Ranthambore
+Animal_135,Bear,198,13,Bandipur
+Animal_136,Monkey,36,7,Gir
+Animal_137,Fox,17,5,Kanha
+Animal_138,Wolf,52,10,Pench
+Animal_139,Bison,735,15,Nagarhole
+Animal_140,Rhino,2450,23,Kaziranga
+Animal_141,Tiger,220,8,Sundarbans
+Animal_142,Elephant,4200,24,Periyar
+Animal_143,Deer,95,5,Jim Corbett
+Animal_144,Leopard,72,7,Ranthambore
+Animal_145,Bear,187,10,Bandipur
+Animal_146,Monkey,31,6,Gir
+Animal_147,Fox,14,4,Kanha
+Animal_148,Wolf,45,8,Pench
+Animal_149,Bison,700,12,Nagarhole
+Animal_150,Rhino,2360,20,Kaziranga
+Animal_151,Tiger,226,9,Sundarbans
+Animal_152,Elephant,4300,27,Periyar
+Animal_153,Deer,101,6,Jim Corbett
+Animal_154,Leopard,75,8,Ranthambore
+Animal_155,Bear,193,12,Bandipur
+Animal_156,Monkey,34,6,Gir
+Animal_157,Fox,16,5,Kanha
+Animal_158,Wolf,49,9,Pench
+Animal_159,Bison,710,13,Nagarhole
+Animal_160,Rhino,2390,21,Kaziranga
+Animal_161,Tiger,214,7,Sundarbans
+Animal_162,Elephant,4150,23,Periyar
+Animal_163,Deer,93,5,Jim Corbett
+Animal_164,Leopard,70,6,Ranthambore
+Animal_165,Bear,180,10,Bandipur
+Animal_166,Monkey,28,5,Gir
+Animal_167,Fox,12,3,Kanha
+Animal_168,Wolf,42,8,Pench
+Animal_169,Bison,680,11,Nagarhole
+Animal_170,Rhino,2270,18,Kaziranga
+Animal_171,Tiger,235,10,Sundarbans
+Animal_172,Elephant,4500,30,Periyar
+Animal_173,Deer,110,7,Jim Corbett
+Animal_174,Leopard,82,9,Ranthambore
+Animal_175,Bear,200,14,Bandipur
+Animal_176,Monkey,38,7,Gir
+Animal_177,Fox,18,6,Kanha
+Animal_178,Wolf,55,11,Pench
+Animal_179,Bison,750,16,Nagarhole
+Animal_180,Rhino,2480,24,Kaziranga
+Animal_181,Tiger,217,8,Sundarbans
+Animal_182,Elephant,4250,25,Periyar
+Animal_183,Deer,99,5,Jim Corbett
+Animal_184,Leopard,74,7,Ranthambore
+Animal_185,Bear,189,11,Bandipur
+Animal_186,Monkey,30,6,Gir
+Animal_187,Fox,13,4,Kanha
+Animal_188,Wolf,46,8,Pench
+Animal_189,Bison,705,12,Nagarhole
+Animal_190,Rhino,2340,19,Kaziranga
+Animal_191,Tiger,221,9,Sundarbans
+Animal_192,Elephant,4380,28,Periyar
+Animal_193,Deer,106,6,Jim Corbett
+Animal_194,Leopard,79,8,Ranthambore
+Animal_195,Bear,196,13,Bandipur
+Animal_196,Monkey,35,7,Gir
+Animal_197,Fox,15,5,Kanha
+Animal_198,Wolf,51,10,Pench
+Animal_199,Bison,730,14,Nagarhole
+Animal_200,Rhino,2410,22,Kaziranga

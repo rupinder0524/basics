@@ -1,0 +1,16 @@
+﻿Patient_ID,Age,Gender,Blood_Group,Weight_kg,Height_cm,Blood_Pressure,Disease_Status
+P001,25,Male,A+,68,175,Normal,Healthy
+P002,34,Female,B+,60,162,Normal,Healthy
+P003,45,Male,O+,82,178,High,Diabetes
+P004,29,Female,AB+,55,160,Normal,Healthy
+P005,52,Male,A-,75,172,High,Hypertension
+P006,38,Female,O-,65,165,Normal,Healthy
+P007,41,Male,B-,80,180,High,Diabetes
+P008,23,Female,A+,58,158,Normal,Healthy
+P009,60,Male,AB-,85,176,High,Heart Disease
+P010,36,Female,O+,62,168,Normal,Healthy
+P011,48,Male,B+,78,174,High,Hypertension
+P012,31,Female,A-,57,161,Normal,Healthy
+P013,55,Male,O-,88,182,High,Diabetes
+P014,27,Female,AB+,54,159,Normal,Healthy
+P015,50,Male,B+,76,170,High,Heart Disease

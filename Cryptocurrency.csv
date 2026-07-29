@@ -1,0 +1,151 @@
+﻿Coin,Market_Cap,Daily_Return (%),Trading_Volume,Category
+Bitcoin,850000,2.5,42000,Store of Value
+Ethereum,420000,1.8,31000,Smart Contract
+Binance Coin,95000,-0.8,12000,Exchange Token
+Cardano,68000,3.2,9000,Smart Contract
+Solana,72000,4.1,15000,Smart Contract
+Ripple,54000,-1.5,11000,Payment
+Dogecoin,30000,5.6,17000,Meme Coin
+Polkadot,25000,2.3,8000,Smart Contract
+Litecoin,18000,-2.1,6500,Payment
+Chainlink,16000,1.4,7000,Oracle
+Avalanche,42000,3.6,9800,Smart Contract
+Polygon,21000,2.7,8500,Layer 2
+Tron,33000,0.9,9500,Smart Contract
+Stellar,14000,-0.6,5200,Payment
+Cosmos,12000,2.1,4700,Smart Contract
+VeChain,9000,1.2,3600,Supply Chain
+Monero,8000,-1.4,3000,Privacy
+EOS,6500,0.5,2500,Smart Contract
+Tezos,7200,1.9,2800,Smart Contract
+Algorand,8500,2.8,3300,Smart Contract
+Bitcoin Cash,11000,-2.4,4100,Payment
+Filecoin,9800,3.4,3900,Storage
+Aptos,10500,4.2,6200,Smart Contract
+Near Protocol,15000,3.8,7100,Smart Contract
+Internet Computer,8900,-0.9,3600,Smart Contract
+Arbitrum,13200,2.6,5400,Layer 2
+Optimism,12800,1.5,5000,Layer 2
+Hedera,9400,2,4200,Enterprise
+Maker,7200,-1.8,2100,DeFi
+Aave,6500,2.9,2600,DeFi
+Uniswap,8100,1.7,3500,DeFi
+Synthetix,4200,-0.7,1800,DeFi
+PancakeSwap,5100,2.4,2200,DeFi
+Curve DAO,3600,-1.3,1600,DeFi
+Theta,4700,3,2400,Media
+Sandbox,4300,4.5,3100,Metaverse
+Decentraland,3900,2.8,2800,Metaverse
+Axie Infinity,4100,-2,2500,Gaming
+Chiliz,2800,1.6,1900,Sports
+Gala,2600,3.9,2100,Gaming
+Enjin Coin,2200,2.2,1700,Gaming
+Zcash,1900,-1.1,1200,Privacy
+Dash,1800,0.8,1100,Payment
+Basic Attention Token,2400,1.9,1500,Advertising
+Neo,3100,2.7,1800,Smart Contract
+Qtum,1700,-0.5,900,Smart Contract
+Waves,2100,3.3,1300,Smart Contract
+Harmony,1600,2.5,1000,Smart Contract
+Celo,1400,-1.7,850,Payment
+Helium,2600,4.8,2400,IoT
+Flow,2300,2.6,1700,Gaming
+Fantom,4200,3.5,2900,Smart Contract
+Kusama,1800,-0.8,1200,Smart Contract
+Loopring,1600,1.7,950,Layer 2
+1inch,1500,2.3,900,DeFi
+Compound,2800,1.2,1800,DeFi
+SushiSwap,1900,-1.6,1300,DeFi
+Yearn Finance,1200,3.8,700,DeFi
+Convex Finance,1400,2.5,850,DeFi
+Balancer,1100,-0.9,650,DeFi
+Rocket Pool,2500,2.1,1400,DeFi
+Lido DAO,4800,3.4,3000,DeFi
+Injective,6200,5.1,4200,DeFi
+Sei,3400,4.3,2300,Smart Contract
+Sui,5900,3.9,4100,Smart Contract
+Blur,1700,-2.2,1200,NFT
+Immutable X,3900,2.8,2600,Gaming
+Render,5300,4.6,3900,AI
+Fetch.ai,4700,3.7,3500,AI
+Ocean Protocol,1900,2,1100,AI
+SingularityNET,2800,3.2,1800,AI
+Arweave,4300,1.9,2400,Storage
+Storj,1600,-0.6,950,Storage
+Siacoin,1300,1.5,800,Storage
+Nano,1400,0.9,850,Payment
+DigiByte,900,-1.3,600,Payment
+Ravencoin,1200,2.4,700,Mining
+Horizen,1100,1.8,650,Privacy
+Secret,1500,2.6,900,Privacy
+ICON,1300,-0.7,850,Smart Contract
+Ontology,1200,1.4,780,Smart Contract
+WAX,1700,2.9,1000,Gaming
+COTI,1400,3.1,920,Payment
+Audius,1000,1.7,650,Media
+Civic,850,-0.9,500,Identity
+Status,780,1.2,460,Messaging
+Livepeer,2600,3.6,1700,Media
+Golem,1700,2.4,1100,Computing
+IoTeX,1500,1.8,980,IoT
+Energy Web,900,-1.5,620,Energy
+Dent,700,0.8,450,Telecom
+Holo,1000,2.7,690,Computing
+Orchid,650,-0.4,380,Privacy
+Biconomy,1100,3.3,760,Infrastructure
+Cartesi,1500,2.5,980,Infrastructure
+Radix,1900,4,1200,DeFi
+Casper,1700,2.2,1050,Smart Contract
+SKALE,1200,1.6,780,Infrastructure
+Ankr,1800,2.9,1300,Infrastructure
+Moonbeam,1600,3.1,1100,Smart Contract
+Cronos,3800,2.8,2400,Exchange Token
+OKB,12000,1.9,4500,Exchange Token
+KuCoin Token,2800,2.3,1700,Exchange Token
+BitTorrent,950,-0.8,650,Storage
+WINk,650,1.1,420,Gaming
+CivicX,720,2,510,Identity
+Helium Mobile,1100,3.6,820,IoT
+Numeraire,1400,2.7,900,AI
+API3,1250,1.8,780,Oracle
+Band Protocol,1600,2.4,1050,Oracle
+Tellor,900,-1.2,540,Oracle
+DIA,850,1.5,500,Oracle
+Venus,1800,2.9,1200,DeFi
+dYdX,4200,4.2,3300,DeFi
+GMX,3900,3.8,2800,DeFi
+Pendle,2700,5,2100,DeFi
+Bonk,1500,8.2,2600,Meme Coin
+Pepe,1800,9.5,3200,Meme Coin
+Floki,1400,7.4,2400,Meme Coin
+Shiba Inu,8200,6.8,5400,Meme Coin
+Terra Classic,950,-6.5,1800,Smart Contract
+Kava,2100,2.6,1500,DeFi
+Osmosis,1700,3,1200,DeFi
+Celestia,6200,4.8,4200,Infrastructure
+Wormhole,3400,3.9,2600,Infrastructure
+Zilliqa,1500,2.2,980,Smart Contract
+CKB,1100,1.7,720,Infrastructure
+Ark,650,-0.7,380,Smart Contract
+Komodo,520,0.9,290,Privacy
+Verge,740,2.4,450,Privacy
+Pundi X,860,1.8,520,Payment
+Celer Network,1450,2.9,900,Layer 2
+Metis,2300,3.5,1600,Layer 2
+zkSync,5600,4.6,3900,Layer 2
+Starknet,5900,4.3,4100,Layer 2
+Mantle,4700,3.7,3000,Layer 2
+SafePal,980,1.4,640,Wallet
+Trust Wallet Token,2600,2.8,1700,Wallet
+SafeMoon,420,-5.8,210,Meme Coin
+Mog Coin,310,10.2,180,Meme Coin
+Turbo,280,11.4,160,Meme Coin
+Book of Meme,680,9.8,520,Meme Coin
+Pixels,890,3.2,700,Gaming
+Beam,1450,2.5,920,Gaming
+Illuvium,2100,4.1,1400,Gaming
+Gala Games,1850,3.4,1200,Gaming
+Magic,980,2.7,680,Gaming
+Echelon Prime,760,5.6,430,Gaming
+Aleph Zero,1250,3.1,850,Privacy
+XDC Network,3200,2.9,2300,Payment
