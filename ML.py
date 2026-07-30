@@ -303,59 +303,30 @@ import pandas as pd
 # What does
 # 25000
 
-# Import libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-# Load dataset from CSV file
 data = pd.read_csv("employee_experience.csv")
 
-# Display dataset
-print(data)
+# Clean column names
+data.columns = data.columns.str.strip()
 
+# Convert to numeric
+data["Experience"] = pd.to_numeric(data["Experience"], errors="coerce")
+data["Salary"] = pd.to_numeric(data["Salary"], errors="coerce")
 
-# Features (Input)
-X = data[["Experience "]]
+# Remove missing rows
+data = data.dropna(subset=["Experience", "Salary"])
 
-# Target (Output)
-Y = data["Salary "]
+X = data[["Experience"]]
+y = data["Salary"]
 
-
-# Split dataset into training and testing data
-X_train, X_test, Y_train, Y_test = train_test_split(
-    X, Y, test_size=0.2, random_state=42
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42
 )
 
-
-# Create Linear Regression model
 model = LinearRegression()
+model.fit(X_train, y_train)
 
-
-# Train the model
-model.fit(X_train, Y_train)
-
-
-# Test the model
-Y_pred = model.predict(X_test)
-
-
-# Display actual and predicted salary
-print("Actual Salary:")
-print(Y_test)
-
-print("\nPredicted Salary:")
-print(Y_pred)
-
-
-# Predict salary for new experience values
-new_employee = pd.DataFrame({
-    "Experience": [2, 4, 6, 8, 10]
-})
-
-prediction = model.predict(new_employee)
-
-
-# Display predictions
-for exp, salary in zip(new_employee["Experience"], prediction):
-    print("Experience:", exp, "Years --> Predicted Salary: $", round(salary))
+print("Model trained successfully!")
